@@ -1,0 +1,41 @@
+What is bootstrap? 
+
+bootstrap open source front end framework for fast web development k liye use krte ha 
+
+premade html and css templates and classes
+
+javascript widgets and plugins
+
+Mobile first responsive layout
+
+Advantages of bootstrap 
+
+Browser compatibility
+
+Faster development
+
+goods for devs that lack design / UI skills
+
+Easy to learn
+
+Responsive layouts
+
+Ways to install Bootstrap 
+
+Download and includes files
+
+Package Managers - Npm / yarn
+
+! exclamation + tab 
+
+h1#test is mean just like <h1 id="test"></h1>
+
+h1.test is mean just like <h1 class="test"></h1>
+
+#test is mean <div id="test"></div>
+
+.test is mean <div class="test"></div>
+
+li*5 mean five list tag
+
+loream40 dami 40 words and paragraph
